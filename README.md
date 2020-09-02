@@ -5,6 +5,9 @@
 Consider yourself to be the newly appointed manager of retail store 'ALL-MART'. your first task as manager of the store is to increase cross selling.
 Item'A'-> Item'B'
 
+## Lab Environments-
+R, R Studio, Jupyter notebook
+
 ## Description of Implementation -
 ### Task to be performed
     #### Task-1 'Understand the transactions'
